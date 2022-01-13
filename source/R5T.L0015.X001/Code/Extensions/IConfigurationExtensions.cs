@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 using Microsoft.Extensions.Configuration;
-
-using R5T.Magyar.IO;
 
 
 namespace R5T.L0015.X001
