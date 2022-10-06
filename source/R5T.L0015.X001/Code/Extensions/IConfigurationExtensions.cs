@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 using Microsoft.Extensions.Configuration;
 
+using R5T.Magyar;
+
 
 namespace R5T.L0015.X001
 {
